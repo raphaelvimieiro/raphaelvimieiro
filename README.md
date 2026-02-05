@@ -1,6 +1,6 @@
 ## Raphael Procópio👋
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas pela PUC Minas 
+🎓 Estudante de Análise e Desenvolvimento de Sistemas - PUC Minas 
 
 
 ---
