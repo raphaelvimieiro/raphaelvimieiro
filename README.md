@@ -38,6 +38,3 @@
 [![Social](    https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphael-proc%C3%B3pio-36a074380/)
 
 
-### 📊 Estatisticas
-
-![Raphael GitHub stats](https://github-readme-stats.vercel.app/api?username=raphaelvimieiro&show_icons=true&theme=tokyonight)
