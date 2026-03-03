@@ -1,6 +1,6 @@
 ## Raphael Procópio👋
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas - PUC Minas 
+🎓 Estudante de Análise e Desenvolvimento de Sistemas pela PUC Minas 
 
 
 ---
@@ -30,11 +30,20 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
+ 
+ <img 
+ align="left" 
+    alt="C#" 
+    title="C#"
+    width="30px" 
+    style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />     
 <br>
 
 ---
 ### 👤Social
 
 [![Social](    https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphael-proc%C3%B3pio-36a074380/)
+
 
 
