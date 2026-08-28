@@ -1,7 +1,8 @@
-## Raphael Procópio👋
+## 👋 Olá, me chamo Raphael Procópio!
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas pela PUC Minas 
-
+Desenvolvedor Back-End com foco em C# e .NET, com conhecimentos em Programação Orientada a Objetos e desenvolvimento de aplicações.
+Possuo experiência com C#, .NET, SQL Server, JavaScript, HTML e CSS, adquirida por meio de projetos acadêmicos e práticos durante minha formação em Análise e Desenvolvimento de Sistemas pela PUC Minas.
+Tenho interesse em desenvolvimento de software, bancos de dados e construção de aplicações com código limpo, organizado e bem estruturado. Estou constantemente aprimorando meus conhecimentos em boas práticas de programação, arquitetura de software
 
 ---
 ### 🤖 Linguagens e Tecnologias
@@ -48,7 +49,6 @@
     src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" />
 
 <br>
-
 
 
 ---
