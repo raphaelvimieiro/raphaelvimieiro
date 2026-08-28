@@ -1,9 +1,7 @@
 ## 👋 Olá, me chamo Raphael Procópio!
 
 Desenvolvedor Back-End, com foco em C# e .NET, atuando no desenvolvimento de aplicações e no aprimoramento de soluções de software.
-
 Atualmente, cursando Análise e Desenvolvimento de Sistemas pela PUC Minas, venho desenvolvendo e aprimorando conhecimentos em C#, .NET, SQL Server e MySQL, além de JavaScript, HTML e CSS, ampliando minha compreensão sobre o desenvolvimento de aplicações web.
-
 Tenho interesse em desenvolvimento de software e soluções Back-End, buscando aplicar boas práticas de programação, organização e manutenção de código, além de evoluir continuamente meus conhecimentos técnicos.
 ---
 ### 🤖 Linguagens e Tecnologias
